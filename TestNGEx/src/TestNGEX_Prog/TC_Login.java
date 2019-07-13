@@ -14,7 +14,7 @@ package TestNGEX_Prog;
 			crm.get("http://apps.qaplanet.in/qahrm/login.php");
 		//crm.navigate().to("http://apps.qaplanet.in/qahrm/login.php");
 
-			
+			//endited in git-hub server
 			Thread.sleep(1000);
 			
 			if(crm.getTitle().equals("OrangeHRM - New Level of HR Management"))
