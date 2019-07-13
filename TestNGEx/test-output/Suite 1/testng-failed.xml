@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite 1]">
+  <parameter name="strun" value="qaplanet1"/>
+  <parameter name="strpwd" value="lab1"/>
+  <test name="test 1">
+    <parameter name="strun" value="qaplanet1"/>
+    <parameter name="strpwd" value="lab1"/>
+    <classes>
+      <class name="TestNGEX_Prog.TC1_TestNgEx_Parametr"/>
+    </classes>
+  </test> <!-- test 1 -->
+</suite> <!-- Failed suite [Suite 1] -->

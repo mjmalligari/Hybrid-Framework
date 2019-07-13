@@ -1,0 +1,10 @@
+
+<suite name="Suite 1">
+   <test name="test 1">
+   		<parameter name="strun" value="qaplanet1"/>
+   		<parameter name="strpwd" value="lab1"/>
+   			<classes>
+   				<class name="TestNGEX_Prog.TC1_TestNgEx_Parametr"/>
+   				</classes>
+   </test>
+</suite>
